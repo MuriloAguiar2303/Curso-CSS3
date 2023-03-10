@@ -1,0 +1,17 @@
+*{margin: 0; padding: 0;}
+/* h1{
+    color: red;
+    text-align: center;
+}
+h2{
+    color: red;
+    text-align: center;
+}
+p{
+    color: red;
+    text-align: center;
+} */
+h1,h2,p{
+    color: red;
+    text-align: center;
+}
