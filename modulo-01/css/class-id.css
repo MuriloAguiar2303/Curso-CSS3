@@ -1,7 +1,15 @@
 *{margin: 0; padding: 0;}
 .texto-principal{
     color: royalblue;
+    font-size: 14px;
 }
 .texto-secundario{
     color: crimson;
+}
+#texto1{
+    background-color: bisque;
+    
+}
+#texto2{
+    background-color: palevioletred;
 }
