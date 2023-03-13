@@ -1,0 +1,13 @@
+*{margin: 0; padding: 0; box-sizing: border-box;}
+#conteudo{
+    background-color: red;
+    width: 300px;
+    padding: 20px;
+    box-shadow: 10px 10px 5px green;
+}
+#conteudo-2{
+    background-color: rgb(6, 129, 129);
+    width: 300px;
+    padding: 20px;
+    box-shadow: 10px 10px 5px rebeccapurple;
+}
